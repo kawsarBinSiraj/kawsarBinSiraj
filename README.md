@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**kawsarBinSiraj/kawsarBinSiraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on lead developer (frontend) at Advanced Project Integration Limited.
+- 🌱 I’m currently learning Node JS
+- 👯 I’m looking to collaborate on MEARN STACK DEVELOPER
+- 🤔 I’m looking for help with MEARN STACK DEVELOPER
+- 💬 Ask me about anything.
+- 📫 How to reach me: https://www.facebook.com/kawsarBinSiraj/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I hung myself with JavaScript. So i am in the middle of dying. 
 
-Here are some ideas to get you started:
+### Take a look at some of my works, and if you like them feel free to contact me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## love being minimal and creative.
+# let’s create something WOW!
