@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I hung myself with JavaScript. So i am in the middle of dying. 
 
 
-### So let’s create something WOW!
+### let’s create something WOW!
