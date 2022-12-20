@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on lead developer (frontend) at Advanced Project Integration Limited.
+- 🔭 I’m currently working on lead developer (frontend) at RiseUpLabs
 - 🌱 I’m currently learning Node JS
 - 👯 I’m looking to collaborate on MERN STACK DEVELOPER
 - 🤔 I’m looking for help with MERN STACK DEVELOPER
