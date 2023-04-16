@@ -13,5 +13,8 @@
 ### let’s create something WOW!
 
 
-![bushblade's Stats] https://github-readme-stats.vercel.app/api?username=kawsarBinSiraj&theme=swift&show_icons=true&hide_border=true&count_private=true
+![bushblade's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kawsarBinSiraj&theme=swift&show_icons=true&layout=compact)
+
+![bushblade's Stats](https://github-readme-stats.vercel.app/api?username=kawsarBinSiraj&theme=swift&show_icons=true)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kawsarBinSiraj&theme=swift)](https://git.io/streak-stats)
